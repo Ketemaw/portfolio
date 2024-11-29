@@ -28,5 +28,25 @@
 ### Projects
 #### HR dashboard :
 
+ 🎯 HR Analytics Dashboard in Power BI 🎯
+
+I developed an interactive HR Analytics Dashboard in Power BI, enabling comprehensive workforce analysis and data-driven insights. The dashboard visualizes key metrics, offering an intuitive overview of employee trends and organizational health. Key highlights include:
+
+🔹 Overall Employees: A snapshot of the total workforce, providing a clear view of headcount.
+🔹 Attrition Insights: Comprehensive analysis of attrition, including:
+
+Total Attrition: Count of employees who have left the organization.
+Attrition Rate: Percentage calculation, offering insights into turnover trends.
+Active Employees: Segregation of current employees for ongoing resource planning.
+🔹 Demographic Analysis:
+
+Average Age: Average age of employees, offering insights into workforce maturity.
+Age Group Breakdown: Visualization of employees across various age bands.
+Attrition Rate by Gender and Age Group: Detailed insights into how attrition varies across demographics.
+🔹 Department-wise Attrition: Attrition rates across departments, helping identify areas requiring attention.
+🔹 Job Satisfaction Rating: An overview of employee satisfaction, crucial for understanding engagement and morale.
+🔹 Education Field-wise Attrition: Analysis of attrition based on educational background, aiding in recruitment strategy.
+
+This dashboard serves as a powerful tool for HR decision-making, helping organizations proactively address workforce challenges and enhance employee experience.
  <img width="632" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/3b8f045f-8581-4dc1-9719-f0499ae0c77a">
 
