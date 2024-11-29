@@ -14,7 +14,7 @@
   
 
 ### Education
-- Master of Technology |KIIT University, Bhubaneswar, India (May 2024)
+- Master of Technology |[KIIT University](https://kiit.ac.in/), Bhubaneswar, India (May 2024)
 - Bachelor of Technology |KIIT University, Bhubaneswar, India(August 2022)
 
 ### Work Experience
