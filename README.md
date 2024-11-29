@@ -1,5 +1,5 @@
 # Data Analyst
-- Technical Skills:  Python, SQL, PowerBI, MS Excel, Tableau, R, Java, Postgr,  
+- Technical Skills:  Python, SQL, PowerBI, MS Excel, Tableau, R, Java, PostgreSQL,  
 
 ### Education
 - Master of Technology |KIIT University, Bhubaneswar, India (May 2024)
