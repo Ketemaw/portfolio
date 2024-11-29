@@ -1,5 +1,5 @@
 # Data Analyst
-### Technical Skills:
+### Technical Skills
   - Python
   - SQL
   - PowerBI
@@ -15,7 +15,7 @@
 
 ### Education
 - Master of Technology in Computer Science and Engineering with Data Analytics Specialization |[KIIT University](https://kiit.ac.in/), Bhubaneswar, India (May 2024)
-- Bachelor of Technology in Electronics and Computer Science Engineering  |[KIIT University](https://kiit.ac.in/), Bhubaneswar, India(August 2022)
+- Bachelor of Technology in Electronics and Computer Science Engineering  |[KIIT University](https://kiit.ac.in/), Bhubaneswar, India (August 2022)
 
 ### Work Experience
 - Operation Officer | Mind Maids PLC, Addis Ababa, Ethiopia (August 2024 - Present)
