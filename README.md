@@ -6,6 +6,7 @@
   - PostgreSQL
   - MS Excel
   - Tableau
+  - Machine Learning
   - R Programming
   - Java
   - C++
