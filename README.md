@@ -41,8 +41,9 @@ I developed an interactive HR Analytics Dashboard in Power BI, enabling comprehe
 
 -🔹 Demographic Analysis:
  - Average Age: Average age of employees, offering insights into workforce maturity.
-Age Group Breakdown: Visualization of employees across various age bands.
-Attrition Rate by Gender and Age Group: Detailed insights into how attrition varies across demographics.
+ - Age Group Breakdown: Visualization of employees across various age bands.
+ - Attrition Rate by Gender and Age Group: Detailed insights into how attrition varies across demographics.
+   
 -🔹 Department-wise Attrition: Attrition rates across departments, helping identify areas requiring attention.
 -🔹 Job Satisfaction Rating: An overview of employee satisfaction, crucial for understanding engagement and morale.
 -🔹 Education Field-wise Attrition: Analysis of attrition based on educational background, aiding in recruitment strategy.
