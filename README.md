@@ -15,10 +15,10 @@
 
 ### Education
 - Master of Technology |[KIIT University](https://kiit.ac.in/), Bhubaneswar, India (May 2024)
-- Bachelor of Technology |KIIT University, Bhubaneswar, India(August 2022)
+- Bachelor of Technology |[KIIT University](https://kiit.ac.in/), Bhubaneswar, India(August 2022)
 
 ### Work Experience
-- Operation Officer | Mind Maids PLC, Addis Ababa, Ethiopia (Since August 2024)
+- Operation Officer | Mind Maids PLC, Addis Ababa, Ethiopia (August 2024 - Present)
 - Teaching Assistant | KIIT University, Bhubaneswar, India (December 2022 - May 2024) 
 
 ### [Recent Publications](https://scholar.google.com/citations?user=80_wM_IAAAAJ&hl=en)
