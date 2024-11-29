@@ -26,7 +26,7 @@
 
 
 ### Projects
-#### HR dashboard :
+#### 1. HR dashboard :
 
  🎯 HR Analytics Dashboard in Power BI 🎯
 
@@ -48,5 +48,6 @@ Attrition Rate by Gender and Age Group: Detailed insights into how attrition var
 🔹 Education Field-wise Attrition: Analysis of attrition based on educational background, aiding in recruitment strategy.
 
 This dashboard serves as a powerful tool for HR decision-making, helping organizations proactively address workforce challenges and enhance employee experience.
+
  <img width="632" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/3b8f045f-8581-4dc1-9719-f0499ae0c77a">
 
