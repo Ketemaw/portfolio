@@ -73,3 +73,13 @@ This dashboard serves as a powerful tool for HR decision-making, helping organiz
   
 <img width="638" alt="Grocery PBI Dashboard" src="https://github.com/user-attachments/assets/a8e4dca4-2a36-4983-8c9e-ed92c78c4598">
 
+
+### 3. Sales Performance Dashboard in Power BI
+In this project, I built a Power BI dashboard to explore and present key sales insights. The goal was to provide a clear, data-driven picture of business performance, empowering stakeholders to make informed decisions. Here's what I achieved:
+
+-🔹Key Features & Insights:
+- Total Sales and Gross Sales: This helped create a quick overview of how the business was performing financially.
+= Cost of Goods Sold (COGS) and Profit: I tracked COGS and calculated profit margins to show how each segment contributed to the bottom line. This provided a better understanding of where profitability was strongest and where improvements could be made.
+= Sales by Month: I created time-series visuals to break down monthly sales trends to spot seasonality patterns and predict future performance.
+= Top 3 Products by Segment: To showcase the best-performing products, I identified the top three products in each segment, such as Government and Midmarket. This helped highlight which products drove the most sales.
+= Sales by Country: I mapped out sales by country, giving a clear view of regional performance. This allowed for a deeper understanding of which markets were thriving and where new opportunities might lie.
