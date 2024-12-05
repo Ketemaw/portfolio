@@ -83,3 +83,5 @@ In this project, I developed a Power BI dashboard to analyze and present key sal
 - Sales by Month: I created time-series visuals to break down monthly sales trends to spot seasonality patterns and predict future performance.
 - Top 3 Products by Segment: To showcase the best-performing products, I identified the top three products in each segment, such as Government and Midmarket. This  highlights which products drove the most sales.
 - Sales by Country: I mapped out sales by country, giving a clear view of regional performance for a deeper understanding of which markets were thriving and where new opportunities might lie.
+
+   <img width="668" alt="Business perforamce" src="https://github.com/user-attachments/assets/94888432-0859-4a54-b008-b152fda36dbb">
