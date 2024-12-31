@@ -107,6 +107,7 @@ Visualizations
 - Sales Breakdown: Donut charts showcase the contribution of pizza categories and sizes to overall sales.
 - Category Performance: A Funnel chart compares pizza sales by category, helping evaluate menu performance.
   
-  <img width="506" alt="Pizza dashboard" src="https://github.com/user-attachments/assets/d81d3ab0-455d-4e34-98be-9c9a4ccabfad" />
+  <img width="522" alt="pizza powerbidashboard" src="https://github.com/user-attachments/assets/d09782f7-6935-4bdd-81a1-98c0ebaa2d45" />
+
 
 
