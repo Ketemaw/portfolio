@@ -85,3 +85,28 @@ In this project, I developed a Power BI dashboard to analyze and present key sal
 - Sales by Country: I mapped out sales by country, giving a clear view of regional performance for a deeper understanding of which markets were thriving and where new opportunities might lie.
 
    <img width="668" alt="Business perforamce" src="https://github.com/user-attachments/assets/94888432-0859-4a54-b008-b152fda36dbb">
+
+#### 4. Exploring Pizza Sales Data: Insights Through Interactive Visualization
+
+I have developed a dashboard showcasing insights derived from pizza sales data.
+🔑 Key Metrics
+💰 Total Revenue: $817.86K – Reflects the overall sales performance across the analyzed period.
+📈 Average Order Value: $38.31 – Represents the average amount spent per order, providing insight into customer spending patterns.
+🍕 Total Pizzas Sold: 50K – Indicates demand and operational scale.
+📋 Total Orders: 21K – Captures customer engagement and order frequency.
+⚖️ Average Pizzas per Order: 2.32 – Highlights purchasing trends, such as group or individual orders.
+
+🔍 Key Insights
+ - Busiest Days: Orders peak on Thursday, Friday, and Saturday, ideal for promotions and resource planning.
+ - High-Activity Months: July and January shows maximum order volumes, suggesting seasonal trends.
+ - Category Leadership: The Classic category dominates both sales and order counts.
+ - Size Preference: Large pizzas contribute the most to revenue, reflecting strong customer preference.
+
+Visualizations
+- Daily & Monthly Trends: Using bar and area charts highlight demand fluctuations and seasonal patterns.
+- Sales Breakdown: Donut charts showcase the contribution of pizza categories and sizes to overall sales.
+- Category Performance: A Funnel chart compares pizza sales by category, helping evaluate menu performance.
+  
+  <img width="506" alt="Pizza dashboard" src="https://github.com/user-attachments/assets/d81d3ab0-455d-4e34-98be-9c9a4ccabfad" />
+
+
