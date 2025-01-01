@@ -3,7 +3,7 @@
   - Python
   - SQL
   - PowerBI
-  - PostgreSQL
+  - Analytics 
   - MS Excel
   - Tableau
   - Machine Learning
